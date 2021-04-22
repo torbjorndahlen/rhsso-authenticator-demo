@@ -1,0 +1,18 @@
+{
+    "authenticators": [
+        {
+            "name": "Login Method IDP",
+            "fileName": "login-method-idp.js",
+            "description": "Adds login method to UserSessionNote"
+        },
+        {
+            "name": "Login Method U-P",
+            "fileName": "login-method-up.js",
+            "description": "Adds login method to UserSessionNote"
+        }
+    ],
+    "policies": [
+    ],
+    "mappers": [
+    ]
+}
